@@ -5,9 +5,9 @@
 Il vous faudra préparer sur votre machine les outils suivants (que vous avez déjà pour la plupart).
 - *java 8*
 - *maven 3.3.9*
-- *Votre IDE ou éditeur de texte favoris*
+- *Votre IDE ou éditeur de texte favoris (Nous pourrons vous aider sur IntelliJ et Eclipse qui sont ceux que nous utilisons)*
 
-**Tout d'abord il vous faudra cloner le projet suivant :** https://github.com/declerckt/tpIntroductionSpark
+**Tout d'abord il vous faudra cloner le projet suivant :** https://github.com/declerckt/ari_tp_spark.git
 ```sh
 $ git clone [la route jusqu'au projet]
 ```
